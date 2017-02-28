@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import json
-import cv2
+#import cv2
 import tensorflow.contrib.slim as slim
 import datetime
 import random
